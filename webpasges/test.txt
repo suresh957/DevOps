@@ -1,0 +1,1 @@
+Hello this file contains some information regarding the application which we are devoloping
